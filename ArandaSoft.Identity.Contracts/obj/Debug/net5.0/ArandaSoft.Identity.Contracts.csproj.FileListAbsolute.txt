@@ -1,0 +1,12 @@
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\bin\Debug\net5.0\ArandaSoft.Identity.Contracts.deps.json
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\bin\Debug\net5.0\ArandaSoft.Identity.Contracts.dll
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\bin\Debug\net5.0\ref\ArandaSoft.Identity.Contracts.dll
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\bin\Debug\net5.0\ArandaSoft.Identity.Contracts.pdb
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ArandaSoft.Identity.Contracts.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ArandaSoft.Identity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ArandaSoft.Identity.Contracts.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ArandaSoft.Identity.Contracts.AssemblyInfo.cs
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ArandaSoft.Identity.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ArandaSoft.Identity.Contracts.dll
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ref\ArandaSoft.Identity.Contracts.dll
+C:\Users\camil\source\repos\ArandaSoft.Identity\ArandaSoft.Identity.Contracts\obj\Debug\net5.0\ArandaSoft.Identity.Contracts.pdb

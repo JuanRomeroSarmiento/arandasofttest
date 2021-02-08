@@ -1,0 +1,12 @@
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\bin\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.deps.json
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\bin\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.dll
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\bin\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.pdb
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\bin\Debug\netcoreapp3.1\ArandaSoft.Identity.Entities.dll
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\bin\Debug\netcoreapp3.1\ArandaSoft.Identity.Entities.pdb
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\obj\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\obj\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\obj\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.AssemblyInfo.cs
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\obj\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\obj\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.csproj.CopyComplete
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\obj\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.dll
+C:\Users\camil\source\repos\ArandSoft.Identity.DataBase\obj\Debug\netcoreapp3.1\ArandaSoft.Identity.DataBase.pdb
